@@ -62,14 +62,7 @@ This challenge is about learning Python consistently and building real projects 
 - **Git + GitHub**
 - Optional: Flask, Pandas, BeautifulSoup, PyPDF2, gTTS
 
----
 
-## 🧑‍💻 Connect with Me:
-- 🌐 Portfolio: [yourname.dev]
-- 🔗 LinkedIn: [linkedin.com/in/yourname](#)
-- 🐦 Twitter: [@yourhandle](#)
-
----
 
 > “Code daily. Build boldly. Learn fearlessly.” 🔥  
 > — Sameer Jaga
