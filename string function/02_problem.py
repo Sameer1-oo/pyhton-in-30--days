@@ -7,3 +7,4 @@ letter ='''dear <|name|>
  your are sellceted
  <||date|>'''
 print(letter.replace("<|name|>" , "sameer").replace("<|date|>" , "2/22/2050"))
+ 
