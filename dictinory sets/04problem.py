@@ -12,3 +12,5 @@ print(s2)  # Output: {frozenset({1, 2, 3}), 4, 5}
 # Why?
 # Because sets are unhashable and mutable, so they can't be elements of another set.
 
+
+  
